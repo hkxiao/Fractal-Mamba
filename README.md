@@ -48,9 +48,9 @@ pip install -v -e .
 
 |      name      |   pretrain   | resolution | acc@1 | #param | FLOPs |                                                                             download                                                                              |
 | :------------------: | :----------: | :--------: | :---: | :----: | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Fractal Mamba-T  | ImageNet-1K  |  224x224   | 83.0  |  30M   |  4.8G   |       [ckpt](https://drive.google.com/file/d/1OIiMBxk92WhPssRg0pv0U5y8ZBtHq2eQ/view?usp=drive_link) \| [cfg](Fractal Mamba/classification/config/Fractal Mamba_t_1k_224.yaml)       |
-| Fractal Mamba-T  | ImageNet-1K  |  384x384   | 83.9  |  30MM   |  8.5G   |       [ckpt](https://drive.google.com/file/d/1G6DdEI3JDSltfbmZmcqz79rxM1t01K_8/view?usp=drive_link) \| [cfg](Fractal Mamba/classification/config/Fractal Mamba_s_1k_224.yaml)       |
-| Fractal Mamba-T  | ImageNet-1K  |  512x512   | 83.0  |  30M   |  15.1G  |       [ckpt](https://drive.google.com/file/d/1-8rwMVinj_fV9YMlzx6fGwdjxyLcjd3w/view?usp=drive_link) \| [cfg](Fractal Mamba/classification/config/Fractal Mamba_b_1k_224.yaml)       |
+| Fractal Mamba-T  | ImageNet-1K  |  224x224   | 83.0  |  30M   |  4.8G   |       [ckpt]() \| [cfg]()       |
+| Fractal Mamba-T  | ImageNet-1K  |  384x384   | 83.9  |  30MM   |  8.5G   |       [ckpt]() \| [cfg]()       |
+| Fractal Mamba-T  | ImageNet-1K  |  512x512   | 83.0  |  30M   |  15.1G  |       [ckpt]() \| [cfg]()       |
 | Fractal Mamba-T  | ImageNet-22K |  640x640   | RUNNING  |  81.8  | 30M  |  [ckpt]() \| [cfg]()  |
 | Fractal Mamba-T  | ImageNet-22K |  768x768   | RUNNING  |  80.3  | 30M |  [ckpt]() \| [cfg]()  |
 | Fractal Mamba-T  | ImageNet-22K |  1024x1024   | RUNNING  |  76.3  | 30M  |  [ckpt]() \| [cfg]()  |
