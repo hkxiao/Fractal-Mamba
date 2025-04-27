@@ -51,9 +51,9 @@ pip install -v -e .
 | Fractal Mamba-T  | ImageNet-1K  |  224x224   | 83.0  |  30M   |  4.8G   |       [ckpt]() \| [cfg]()       |
 | Fractal Mamba-T  | ImageNet-1K  |  384x384   | 83.9  |  30M   |  8.5G   |       [ckpt]() \| [cfg]()       |
 | Fractal Mamba-T  | ImageNet-1K  |  512x512   | 83.0  |  30M   |  15.1G  |       [ckpt]() \| [cfg]()       |
-| Fractal Mamba-T  | ImageNet-22K |  640x640   | RUNNING  |  81.8  | 30M  |  [ckpt]() \| [cfg]()  |
-| Fractal Mamba-T  | ImageNet-22K |  768x768   | RUNNING  |  80.3  | 30M |  [ckpt]() \| [cfg]()  |
-| Fractal Mamba-T  | ImageNet-22K |  1024x1024   | RUNNING  |  76.3  | 30M  |  [ckpt]() \| [cfg]()  |
+| Fractal Mamba-T  | ImageNet-1k |  640x640   | RUNNING  |  81.8  | 30M  |  [ckpt]() \| [cfg]()  |
+| Fractal Mamba-T  | ImageNet-1k |  768x768   | RUNNING  |  80.3  | 30M |  [ckpt]() \| [cfg]()  |
+| Fractal Mamba-T  | ImageNet-1k |  1024x1024   | RUNNING  |  76.3  | 30M  |  [ckpt]() \| [cfg]()  |
 </div>
 
 </details>
